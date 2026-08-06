@@ -8,6 +8,7 @@ __pycache__/
 .venv/
 .venv*/
 output/
+images/
 dist/
 build/
 *.egg-info/
